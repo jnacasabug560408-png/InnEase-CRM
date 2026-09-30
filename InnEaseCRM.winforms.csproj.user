@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComplaintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerConsentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuestFeedbackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuestInteractionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InquiryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlatformBiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PromotionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReservationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubscriptionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemAdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TenantAForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TenantBForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TenantCForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TenantSelectDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

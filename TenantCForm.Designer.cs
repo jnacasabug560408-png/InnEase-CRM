@@ -1,0 +1,23 @@
+namespace InnEase_CRM
+{
+    partial class TenantCForm
+    {
+        private System.ComponentModel.IContainer components = null;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                components?.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = AutoScaleMode.Font;
+            this.Text = "TenantCForm";
+        }
+    }
+}
